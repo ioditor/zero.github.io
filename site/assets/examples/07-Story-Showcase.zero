@@ -1,0 +1,192 @@
+{
+  "version": "0.2",
+  "title": "The window that stayed lit",
+  "requiredFeatures": [
+    "font-families-1"
+  ],
+  "inkColor": "navy",
+  "pages": [
+    {
+      "id": "story-page-1",
+      "width": 210,
+      "height": 297,
+      "elements": [
+        {
+          "id": "story-text-1",
+          "type": "text",
+          "x": 24,
+          "y": 22,
+          "width": 164,
+          "rotation": 0,
+          "text": "ЛИСТ 07 / ИСТОРИЯ / RU",
+          "fontSize": 9,
+          "fontId": "mono",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 0
+        },
+        {
+          "id": "story-text-2",
+          "type": "text",
+          "x": 24,
+          "y": 39,
+          "width": 164,
+          "rotation": 0,
+          "text": "Окно, где горел свет",
+          "fontSize": 32,
+          "fontId": "still",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 1
+        },
+        {
+          "id": "story-text-3",
+          "type": "text",
+          "x": 24,
+          "y": 59,
+          "width": 164,
+          "rotation": 0,
+          "text": "Иногда дорога домой начинается с чужого письма.",
+          "fontSize": 13,
+          "fontId": "flow",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 2
+        },
+        {
+          "id": "story-text-4",
+          "type": "text",
+          "x": 24,
+          "y": 81,
+          "width": 162,
+          "rotation": 0,
+          "text": "Каждый вечер Мира проходила мимо старой мастерской. В окне горела маленькая лампа, а на столе лежала раскрытая тетрадь. Однажды дождь загнал её под козырёк. Дверь оказалась приоткрыта. Внутри никого не было, только записка: «Если ждёте, напишите, что заметили по дороге».\n\nМира села и написала про мокрую собаку у булочной, про красный шарф на ветке и про реку, которая в сумерках стала похожа на олово. На следующий вечер рядом с её строками появился ответ: «Собаку зовут Север. Шарф уже нашёл хозяина». Подписи не было. Мира улыбнулась и оставила ещё одну страницу.\n\nТак они переписывались всю осень. Когда выпал первый снег, Мира увидела в мастерской пожилого переплётчика. Он чинил корешок той самой тетради. «Она стала толще», — сказал он вместо приветствия и поставил второй стул. За окном люди торопились домой, а здесь вода уже закипала. Мира сняла пальто. Впервые за долгое время ей было что рассказать ещё до того, как она открыла тетрадь.",
+          "fontSize": 11.5,
+          "fontId": "noto-sans",
+          "lineHeight": 1.55,
+          "color": "ink",
+          "zIndex": 3
+        },
+        {
+          "id": "story-text-5",
+          "type": "text",
+          "x": 24,
+          "y": 235,
+          "width": 164,
+          "rotation": 0,
+          "text": "«Оставим лампу у окна.\nВдруг кто-нибудь ещё заметит дорогу».",
+          "fontSize": 15,
+          "fontId": "flow",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 4
+        },
+        {
+          "id": "story-text-6",
+          "type": "text",
+          "x": 24,
+          "y": 278,
+          "width": 164,
+          "rotation": 0,
+          "text": "КОНЕЦ / MONO · STILL · FLOW · NOTO SANS",
+          "fontSize": 8,
+          "fontId": "mono",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 5
+        }
+      ]
+    },
+    {
+      "id": "story-page-2",
+      "width": 210,
+      "height": 297,
+      "elements": [
+        {
+          "id": "story-text-7",
+          "type": "text",
+          "x": 24,
+          "y": 22,
+          "width": 164,
+          "rotation": 0,
+          "text": "SHEET 07 / A SHORT STORY / EN",
+          "fontSize": 9,
+          "fontId": "mono",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 0
+        },
+        {
+          "id": "story-text-8",
+          "type": "text",
+          "x": 24,
+          "y": 39,
+          "width": 164,
+          "rotation": 0,
+          "text": "The window that stayed lit",
+          "fontSize": 29,
+          "fontId": "still",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 1
+        },
+        {
+          "id": "story-text-9",
+          "type": "text",
+          "x": 24,
+          "y": 59,
+          "width": 164,
+          "rotation": 0,
+          "text": "Sometimes the way home begins with a stranger’s letter.",
+          "fontSize": 13,
+          "fontId": "flow",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 2
+        },
+        {
+          "id": "story-text-10",
+          "type": "text",
+          "x": 24,
+          "y": 81,
+          "width": 162,
+          "rotation": 0,
+          "text": "Every evening, Mira passed an old workshop. A small lamp shone in the window, and an open notebook lay on the desk. One day, rain sent her running under the awning. The door stood ajar. Nobody was inside, but a note said: “While you wait, write down something you noticed on your way.”\n\nMira sat down and wrote about the wet dog outside the bakery, the red scarf caught in a branch, and the river turning to pewter at dusk. The next evening, an answer waited beside her words: “The dog is called North. The scarf has found its owner.” There was no signature. Mira smiled and left another page.\n\nThey wrote to each other all autumn. When the first snow fell, Mira found an elderly bookbinder in the workshop. He was repairing the spine of that same notebook. “It has grown thicker,” he said, pulling up a second chair. Outside, people hurried home. Inside, the kettle was already boiling. Mira took off her coat. For the first time in months, she had something to tell before she even opened the notebook.",
+          "fontSize": 11.5,
+          "fontId": "noto-sans",
+          "lineHeight": 1.55,
+          "color": "ink",
+          "zIndex": 3
+        },
+        {
+          "id": "story-text-11",
+          "type": "text",
+          "x": 24,
+          "y": 235,
+          "width": 164,
+          "rotation": 0,
+          "text": "“Let’s leave the lamp by the window.\nSomeone else might find their way.”",
+          "fontSize": 15,
+          "fontId": "flow",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 4
+        },
+        {
+          "id": "story-text-12",
+          "type": "text",
+          "x": 24,
+          "y": 278,
+          "width": 164,
+          "rotation": 0,
+          "text": "THE END / MONO · STILL · FLOW · NOTO SANS",
+          "fontSize": 8,
+          "fontId": "mono",
+          "lineHeight": 1.5,
+          "color": "ink",
+          "zIndex": 5
+        }
+      ]
+    }
+  ]
+}

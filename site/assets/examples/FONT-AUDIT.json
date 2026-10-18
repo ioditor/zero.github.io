@@ -1,0 +1,1170 @@
+{
+  "archive_sha256": "baf1ccba4f7b18a02802b42ee13f55f043bd11910b7c95786077f546374b48b0",
+  "archive_entries": [
+    "Fonts/",
+    "Fonts/OTF/",
+    "Fonts/OTF/Flow-Regular.otf",
+    "Fonts/OTF/Mono-Regular.otf",
+    "Fonts/OTF/Still-Regular.otf",
+    "Fonts/TTF/",
+    "Fonts/TTF/Flow-Regular.ttf",
+    "Fonts/TTF/Mono-Regular.ttf",
+    "Fonts/TTF/Still-Regular.ttf"
+  ],
+  "files": [
+    {
+      "file": "Fonts/OTF/Flow-Regular.otf",
+      "sha256": "c3ef447c9fb9f2d112eedbd2991f57c1995030796d0b19ab164e7f1bd007ee31",
+      "bytes": 22320,
+      "format": "OpenType CFF",
+      "names": {
+        "0": [
+          "Zero Still original outlines, 2026. Prepared for the project owner."
+        ],
+        "1": [
+          "Flow"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "3": [
+          "Flow-Regular-0.300"
+        ],
+        "4": [
+          "Flow Regular"
+        ],
+        "5": [
+          "Version 0.300"
+        ],
+        "6": [
+          "Flow-Regular"
+        ],
+        "8": [],
+        "9": [],
+        "11": [],
+        "13": [],
+        "14": [],
+        "16": [
+          "Flow"
+        ],
+        "17": [
+          "Regular"
+        ]
+      },
+      "fsType": 0,
+      "unitsPerEm": 1000,
+      "glyphs": 200,
+      "unicode_codepoints": 199,
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "name",
+        "cmap",
+        "post",
+        "CFF ",
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "hmtx"
+      ],
+      "metrics": {
+        "ascent": 1080,
+        "descent": -280,
+        "lineGap": 0,
+        "typoAscent": 1080,
+        "typoDescent": -280
+      },
+      "russian_missing": [],
+      "basic_latin_missing": [],
+      "unicode_ranges": [
+        [
+          "U+0020",
+          "U+007E"
+        ],
+        [
+          "U+00A0",
+          "U+00A0"
+        ],
+        [
+          "U+00A3",
+          "U+00A3"
+        ],
+        [
+          "U+00A9",
+          "U+00A9"
+        ],
+        [
+          "U+00AB",
+          "U+00AB"
+        ],
+        [
+          "U+00AE",
+          "U+00AE"
+        ],
+        [
+          "U+00B0",
+          "U+00B1"
+        ],
+        [
+          "U+00B7",
+          "U+00B7"
+        ],
+        [
+          "U+00BB",
+          "U+00BB"
+        ],
+        [
+          "U+00D7",
+          "U+00D7"
+        ],
+        [
+          "U+00F7",
+          "U+00F7"
+        ],
+        [
+          "U+0301",
+          "U+0301"
+        ],
+        [
+          "U+0306",
+          "U+0306"
+        ],
+        [
+          "U+0308",
+          "U+0308"
+        ],
+        [
+          "U+0401",
+          "U+0401"
+        ],
+        [
+          "U+0410",
+          "U+044F"
+        ],
+        [
+          "U+0451",
+          "U+0451"
+        ],
+        [
+          "U+2002",
+          "U+2003"
+        ],
+        [
+          "U+2009",
+          "U+2009"
+        ],
+        [
+          "U+2013",
+          "U+2014"
+        ],
+        [
+          "U+2018",
+          "U+201A"
+        ],
+        [
+          "U+201C",
+          "U+201E"
+        ],
+        [
+          "U+2020",
+          "U+2022"
+        ],
+        [
+          "U+2026",
+          "U+2026"
+        ],
+        [
+          "U+202F",
+          "U+2030"
+        ],
+        [
+          "U+2039",
+          "U+203A"
+        ],
+        [
+          "U+20AC",
+          "U+20AC"
+        ],
+        [
+          "U+20BD",
+          "U+20BD"
+        ],
+        [
+          "U+2116",
+          "U+2116"
+        ],
+        [
+          "U+2122",
+          "U+2122"
+        ],
+        [
+          "U+2212",
+          "U+2212"
+        ]
+      ]
+    },
+    {
+      "file": "Fonts/OTF/Mono-Regular.otf",
+      "sha256": "09f23095783874d3703774fe8223483c9515b82fdff706a7d23e73e32d78af39",
+      "bytes": 46928,
+      "format": "OpenType CFF",
+      "names": {
+        "0": [
+          "Copyright 2026 Zero Still project contributors."
+        ],
+        "1": [
+          "Mono"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "3": [
+          "Mono-Regular-0.100"
+        ],
+        "4": [
+          "Mono Regular"
+        ],
+        "5": [
+          "Version 0.100; experimental"
+        ],
+        "6": [
+          "Mono-Regular"
+        ],
+        "8": [],
+        "9": [],
+        "11": [],
+        "13": [
+          "See accompanying LICENSE.txt. Permission to use, modify and redistribute."
+        ],
+        "14": [],
+        "16": [
+          "Mono"
+        ],
+        "17": [
+          "Regular"
+        ]
+      },
+      "fsType": 0,
+      "unitsPerEm": 1000,
+      "glyphs": 251,
+      "unicode_codepoints": 250,
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "name",
+        "cmap",
+        "post",
+        "CFF ",
+        "hmtx"
+      ],
+      "metrics": {
+        "ascent": 960,
+        "descent": -260,
+        "lineGap": 0,
+        "typoAscent": 960,
+        "typoDescent": -260
+      },
+      "russian_missing": [],
+      "basic_latin_missing": [],
+      "unicode_ranges": [
+        [
+          "U+0020",
+          "U+007E"
+        ],
+        [
+          "U+00A0",
+          "U+00A0"
+        ],
+        [
+          "U+00A3",
+          "U+00A3"
+        ],
+        [
+          "U+00A9",
+          "U+00A9"
+        ],
+        [
+          "U+00AB",
+          "U+00AB"
+        ],
+        [
+          "U+00AE",
+          "U+00AE"
+        ],
+        [
+          "U+00B0",
+          "U+00B0"
+        ],
+        [
+          "U+00B7",
+          "U+00B7"
+        ],
+        [
+          "U+00BB",
+          "U+00BB"
+        ],
+        [
+          "U+00C0",
+          "U+00CF"
+        ],
+        [
+          "U+00D1",
+          "U+00DD"
+        ],
+        [
+          "U+00DF",
+          "U+00EF"
+        ],
+        [
+          "U+00F1",
+          "U+00FD"
+        ],
+        [
+          "U+00FF",
+          "U+00FF"
+        ],
+        [
+          "U+0401",
+          "U+0401"
+        ],
+        [
+          "U+0410",
+          "U+044F"
+        ],
+        [
+          "U+0451",
+          "U+0451"
+        ],
+        [
+          "U+2009",
+          "U+2009"
+        ],
+        [
+          "U+2013",
+          "U+2014"
+        ],
+        [
+          "U+2018",
+          "U+201A"
+        ],
+        [
+          "U+201C",
+          "U+201E"
+        ],
+        [
+          "U+2020",
+          "U+2022"
+        ],
+        [
+          "U+2026",
+          "U+2026"
+        ],
+        [
+          "U+202F",
+          "U+202F"
+        ],
+        [
+          "U+2039",
+          "U+203A"
+        ],
+        [
+          "U+20AC",
+          "U+20AC"
+        ],
+        [
+          "U+20BD",
+          "U+20BD"
+        ],
+        [
+          "U+2116",
+          "U+2116"
+        ],
+        [
+          "U+2122",
+          "U+2122"
+        ],
+        [
+          "U+2212",
+          "U+2212"
+        ]
+      ]
+    },
+    {
+      "file": "Fonts/OTF/Still-Regular.otf",
+      "sha256": "464c1fe5984f8602425c4ceb8815e3a51c1a49acbb95ebc88c0c7881d967dcb0",
+      "bytes": 46452,
+      "format": "OpenType CFF",
+      "names": {
+        "0": [
+          "Copyright 2026 Zero Still project contributors."
+        ],
+        "1": [
+          "Still"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "3": [
+          "Still-Regular-1.201"
+        ],
+        "4": [
+          "Still Regular"
+        ],
+        "5": [
+          "Version 1.201; experimental lightening"
+        ],
+        "6": [
+          "Still-Regular"
+        ],
+        "8": [],
+        "9": [],
+        "11": [],
+        "13": [
+          "See accompanying LICENSE.txt. Permission to use, modify and redistribute."
+        ],
+        "14": [],
+        "16": [
+          "Still"
+        ],
+        "17": [
+          "Regular"
+        ]
+      },
+      "fsType": 0,
+      "unitsPerEm": 1000,
+      "glyphs": 251,
+      "unicode_codepoints": 250,
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "name",
+        "cmap",
+        "post",
+        "CFF ",
+        "GPOS",
+        "hmtx"
+      ],
+      "metrics": {
+        "ascent": 960,
+        "descent": -260,
+        "lineGap": 0,
+        "typoAscent": 960,
+        "typoDescent": -260
+      },
+      "russian_missing": [],
+      "basic_latin_missing": [],
+      "unicode_ranges": [
+        [
+          "U+0020",
+          "U+007E"
+        ],
+        [
+          "U+00A0",
+          "U+00A0"
+        ],
+        [
+          "U+00A3",
+          "U+00A3"
+        ],
+        [
+          "U+00A9",
+          "U+00A9"
+        ],
+        [
+          "U+00AB",
+          "U+00AB"
+        ],
+        [
+          "U+00AE",
+          "U+00AE"
+        ],
+        [
+          "U+00B0",
+          "U+00B0"
+        ],
+        [
+          "U+00B7",
+          "U+00B7"
+        ],
+        [
+          "U+00BB",
+          "U+00BB"
+        ],
+        [
+          "U+00C0",
+          "U+00CF"
+        ],
+        [
+          "U+00D1",
+          "U+00DD"
+        ],
+        [
+          "U+00DF",
+          "U+00EF"
+        ],
+        [
+          "U+00F1",
+          "U+00FD"
+        ],
+        [
+          "U+00FF",
+          "U+00FF"
+        ],
+        [
+          "U+0401",
+          "U+0401"
+        ],
+        [
+          "U+0410",
+          "U+044F"
+        ],
+        [
+          "U+0451",
+          "U+0451"
+        ],
+        [
+          "U+2009",
+          "U+2009"
+        ],
+        [
+          "U+2013",
+          "U+2014"
+        ],
+        [
+          "U+2018",
+          "U+201A"
+        ],
+        [
+          "U+201C",
+          "U+201E"
+        ],
+        [
+          "U+2020",
+          "U+2022"
+        ],
+        [
+          "U+2026",
+          "U+2026"
+        ],
+        [
+          "U+202F",
+          "U+202F"
+        ],
+        [
+          "U+2039",
+          "U+203A"
+        ],
+        [
+          "U+20AC",
+          "U+20AC"
+        ],
+        [
+          "U+20BD",
+          "U+20BD"
+        ],
+        [
+          "U+2116",
+          "U+2116"
+        ],
+        [
+          "U+2122",
+          "U+2122"
+        ],
+        [
+          "U+2212",
+          "U+2212"
+        ]
+      ]
+    },
+    {
+      "file": "Fonts/TTF/Flow-Regular.ttf",
+      "sha256": "39552d8df2a2feb7065ff53861c2f07db0cc98b9836a5235aac03bb16e0405ff",
+      "bytes": 28716,
+      "format": "TrueType glyf",
+      "names": {
+        "0": [
+          "Zero Still original outlines, 2026. Prepared for the project owner."
+        ],
+        "1": [
+          "Flow"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "3": [
+          "Flow-Regular-0.300"
+        ],
+        "4": [
+          "Flow Regular"
+        ],
+        "5": [
+          "Version 0.300"
+        ],
+        "6": [
+          "Flow-Regular"
+        ],
+        "8": [],
+        "9": [],
+        "11": [],
+        "13": [],
+        "14": [],
+        "16": [
+          "Flow"
+        ],
+        "17": [
+          "Regular"
+        ]
+      },
+      "fsType": 0,
+      "unitsPerEm": 1000,
+      "glyphs": 200,
+      "unicode_codepoints": 199,
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "hmtx",
+        "cmap",
+        "loca",
+        "glyf",
+        "name",
+        "post",
+        "gasp",
+        "GDEF",
+        "GPOS",
+        "GSUB"
+      ],
+      "metrics": {
+        "ascent": 1080,
+        "descent": -280,
+        "lineGap": 0,
+        "typoAscent": 1080,
+        "typoDescent": -280
+      },
+      "russian_missing": [],
+      "basic_latin_missing": [],
+      "unicode_ranges": [
+        [
+          "U+0020",
+          "U+007E"
+        ],
+        [
+          "U+00A0",
+          "U+00A0"
+        ],
+        [
+          "U+00A3",
+          "U+00A3"
+        ],
+        [
+          "U+00A9",
+          "U+00A9"
+        ],
+        [
+          "U+00AB",
+          "U+00AB"
+        ],
+        [
+          "U+00AE",
+          "U+00AE"
+        ],
+        [
+          "U+00B0",
+          "U+00B1"
+        ],
+        [
+          "U+00B7",
+          "U+00B7"
+        ],
+        [
+          "U+00BB",
+          "U+00BB"
+        ],
+        [
+          "U+00D7",
+          "U+00D7"
+        ],
+        [
+          "U+00F7",
+          "U+00F7"
+        ],
+        [
+          "U+0301",
+          "U+0301"
+        ],
+        [
+          "U+0306",
+          "U+0306"
+        ],
+        [
+          "U+0308",
+          "U+0308"
+        ],
+        [
+          "U+0401",
+          "U+0401"
+        ],
+        [
+          "U+0410",
+          "U+044F"
+        ],
+        [
+          "U+0451",
+          "U+0451"
+        ],
+        [
+          "U+2002",
+          "U+2003"
+        ],
+        [
+          "U+2009",
+          "U+2009"
+        ],
+        [
+          "U+2013",
+          "U+2014"
+        ],
+        [
+          "U+2018",
+          "U+201A"
+        ],
+        [
+          "U+201C",
+          "U+201E"
+        ],
+        [
+          "U+2020",
+          "U+2022"
+        ],
+        [
+          "U+2026",
+          "U+2026"
+        ],
+        [
+          "U+202F",
+          "U+2030"
+        ],
+        [
+          "U+2039",
+          "U+203A"
+        ],
+        [
+          "U+20AC",
+          "U+20AC"
+        ],
+        [
+          "U+20BD",
+          "U+20BD"
+        ],
+        [
+          "U+2116",
+          "U+2116"
+        ],
+        [
+          "U+2122",
+          "U+2122"
+        ],
+        [
+          "U+2212",
+          "U+2212"
+        ]
+      ]
+    },
+    {
+      "file": "Fonts/TTF/Mono-Regular.ttf",
+      "sha256": "0d115e647cac95ef90e2ff96e163ec3986e6dc9d9d4a0441de357519ef3a5491",
+      "bytes": 53320,
+      "format": "TrueType glyf",
+      "names": {
+        "0": [
+          "Copyright 2026 Zero Still project contributors."
+        ],
+        "1": [
+          "Mono"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "3": [
+          "Mono-Regular-0.100"
+        ],
+        "4": [
+          "Mono Regular"
+        ],
+        "5": [
+          "Version 0.100; experimental"
+        ],
+        "6": [
+          "Mono-Regular"
+        ],
+        "8": [],
+        "9": [],
+        "11": [],
+        "13": [
+          "See accompanying LICENSE.txt. Permission to use, modify and redistribute."
+        ],
+        "14": [],
+        "16": [
+          "Mono"
+        ],
+        "17": [
+          "Regular"
+        ]
+      },
+      "fsType": 0,
+      "unitsPerEm": 1000,
+      "glyphs": 251,
+      "unicode_codepoints": 250,
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "hmtx",
+        "cmap",
+        "loca",
+        "glyf",
+        "name",
+        "post",
+        "gasp"
+      ],
+      "metrics": {
+        "ascent": 960,
+        "descent": -260,
+        "lineGap": 0,
+        "typoAscent": 960,
+        "typoDescent": -260
+      },
+      "russian_missing": [],
+      "basic_latin_missing": [],
+      "unicode_ranges": [
+        [
+          "U+0020",
+          "U+007E"
+        ],
+        [
+          "U+00A0",
+          "U+00A0"
+        ],
+        [
+          "U+00A3",
+          "U+00A3"
+        ],
+        [
+          "U+00A9",
+          "U+00A9"
+        ],
+        [
+          "U+00AB",
+          "U+00AB"
+        ],
+        [
+          "U+00AE",
+          "U+00AE"
+        ],
+        [
+          "U+00B0",
+          "U+00B0"
+        ],
+        [
+          "U+00B7",
+          "U+00B7"
+        ],
+        [
+          "U+00BB",
+          "U+00BB"
+        ],
+        [
+          "U+00C0",
+          "U+00CF"
+        ],
+        [
+          "U+00D1",
+          "U+00DD"
+        ],
+        [
+          "U+00DF",
+          "U+00EF"
+        ],
+        [
+          "U+00F1",
+          "U+00FD"
+        ],
+        [
+          "U+00FF",
+          "U+00FF"
+        ],
+        [
+          "U+0401",
+          "U+0401"
+        ],
+        [
+          "U+0410",
+          "U+044F"
+        ],
+        [
+          "U+0451",
+          "U+0451"
+        ],
+        [
+          "U+2009",
+          "U+2009"
+        ],
+        [
+          "U+2013",
+          "U+2014"
+        ],
+        [
+          "U+2018",
+          "U+201A"
+        ],
+        [
+          "U+201C",
+          "U+201E"
+        ],
+        [
+          "U+2020",
+          "U+2022"
+        ],
+        [
+          "U+2026",
+          "U+2026"
+        ],
+        [
+          "U+202F",
+          "U+202F"
+        ],
+        [
+          "U+2039",
+          "U+203A"
+        ],
+        [
+          "U+20AC",
+          "U+20AC"
+        ],
+        [
+          "U+20BD",
+          "U+20BD"
+        ],
+        [
+          "U+2116",
+          "U+2116"
+        ],
+        [
+          "U+2122",
+          "U+2122"
+        ],
+        [
+          "U+2212",
+          "U+2212"
+        ]
+      ]
+    },
+    {
+      "file": "Fonts/TTF/Still-Regular.ttf",
+      "sha256": "aef6569bfc0d92982854ebd62866293d1e264e1dc5ea7418afa71984d8d09f1e",
+      "bytes": 47256,
+      "format": "TrueType glyf",
+      "names": {
+        "0": [
+          "Copyright 2026 Zero Still project contributors."
+        ],
+        "1": [
+          "Still"
+        ],
+        "2": [
+          "Regular"
+        ],
+        "3": [
+          "Still-Regular-1.201"
+        ],
+        "4": [
+          "Still Regular"
+        ],
+        "5": [
+          "Version 1.201; experimental lightening"
+        ],
+        "6": [
+          "Still-Regular"
+        ],
+        "8": [],
+        "9": [],
+        "11": [],
+        "13": [
+          "See accompanying LICENSE.txt. Permission to use, modify and redistribute."
+        ],
+        "14": [],
+        "16": [
+          "Still"
+        ],
+        "17": [
+          "Regular"
+        ]
+      },
+      "fsType": 0,
+      "unitsPerEm": 1000,
+      "glyphs": 251,
+      "unicode_codepoints": 250,
+      "tables": [
+        "GlyphOrder",
+        "head",
+        "hhea",
+        "maxp",
+        "OS/2",
+        "hmtx",
+        "cmap",
+        "loca",
+        "glyf",
+        "name",
+        "post",
+        "gasp",
+        "GPOS"
+      ],
+      "metrics": {
+        "ascent": 960,
+        "descent": -260,
+        "lineGap": 0,
+        "typoAscent": 960,
+        "typoDescent": -260
+      },
+      "russian_missing": [],
+      "basic_latin_missing": [],
+      "unicode_ranges": [
+        [
+          "U+0020",
+          "U+007E"
+        ],
+        [
+          "U+00A0",
+          "U+00A0"
+        ],
+        [
+          "U+00A3",
+          "U+00A3"
+        ],
+        [
+          "U+00A9",
+          "U+00A9"
+        ],
+        [
+          "U+00AB",
+          "U+00AB"
+        ],
+        [
+          "U+00AE",
+          "U+00AE"
+        ],
+        [
+          "U+00B0",
+          "U+00B0"
+        ],
+        [
+          "U+00B7",
+          "U+00B7"
+        ],
+        [
+          "U+00BB",
+          "U+00BB"
+        ],
+        [
+          "U+00C0",
+          "U+00CF"
+        ],
+        [
+          "U+00D1",
+          "U+00DD"
+        ],
+        [
+          "U+00DF",
+          "U+00EF"
+        ],
+        [
+          "U+00F1",
+          "U+00FD"
+        ],
+        [
+          "U+00FF",
+          "U+00FF"
+        ],
+        [
+          "U+0401",
+          "U+0401"
+        ],
+        [
+          "U+0410",
+          "U+044F"
+        ],
+        [
+          "U+0451",
+          "U+0451"
+        ],
+        [
+          "U+2009",
+          "U+2009"
+        ],
+        [
+          "U+2013",
+          "U+2014"
+        ],
+        [
+          "U+2018",
+          "U+201A"
+        ],
+        [
+          "U+201C",
+          "U+201E"
+        ],
+        [
+          "U+2020",
+          "U+2022"
+        ],
+        [
+          "U+2026",
+          "U+2026"
+        ],
+        [
+          "U+202F",
+          "U+202F"
+        ],
+        [
+          "U+2039",
+          "U+203A"
+        ],
+        [
+          "U+20AC",
+          "U+20AC"
+        ],
+        [
+          "U+20BD",
+          "U+20BD"
+        ],
+        [
+          "U+2116",
+          "U+2116"
+        ],
+        [
+          "U+2122",
+          "U+2122"
+        ],
+        [
+          "U+2212",
+          "U+2212"
+        ]
+      ]
+    }
+  ],
+  "license_text_files_present": false,
+  "source": "Exact attachment from referenced conversation; supplied as user-owned fonts for bundling."
+}

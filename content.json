@@ -1,0 +1,210 @@
+{
+  "ru": {
+    "title": "Zero — пространство для текста и рисунка",
+    "desc": "Свободный текст, перо и страницы. Знакомьтесь с Zero и семью редактируемыми примерами: от плаката до истории.",
+    "nav": [
+      "Возможности",
+      "Примеры",
+      "Скачать"
+    ],
+    "menu": "Меню",
+    "skip": "К содержимому",
+    "tag": "Текст · Перо · Пространство",
+    "headline": "Мысли обретают<br>свою форму.",
+    "intro": "Пишите там, где начинается мысль. Рисуйте между строк. Собирайте страницы в собственном ритме — на спокойном, свободном листе.",
+    "cta": "К загрузке Zero",
+    "explore": "Посмотреть примеры ↗",
+    "platform": "Windows x64 · portable",
+    "hero": "«Дорога к холмам» — реальная композиция из Zero.",
+    "ftag": "01 / Возможности",
+    "fh": "Лист, на котором<br>можно больше.",
+    "fp": "Текст и рисунок живут рядом. От первого штриха до целой коллекции страниц — без заданной формы.",
+    "features": [
+      [
+        "Свободный текст",
+        "Размещайте текст на листе и поворачивайте фрагменты, чтобы найти нужную композицию."
+      ],
+      [
+        "Перо",
+        "Добавляйте ручные штрихи: рисунки, линии и заметки рядом с текстом."
+      ],
+      [
+        "Страницы",
+        "Дайте каждой мысли своё место. Добавляйте страницы и переходите между ними."
+      ],
+      [
+        "Desk: стопки и связи",
+        "Смотрите на страницы вместе, собирайте их в стопки и связывайте идеи на столе."
+      ],
+      [
+        "Маркеры",
+        "Выделяйте важное мягкими цветными мазками, сохраняя ощущение бумаги."
+      ],
+      [
+        "Шаблоны",
+        "Начинайте с готовой структуры. Шаблоны доступны на русском и английском."
+      ]
+    ],
+    "gtag": "02 / Галерея",
+    "gh": "Семь способов<br>начать с листа.",
+    "names": [
+      "Час без спешки",
+      "Буквы во время отлива",
+      "Дорога к холмам",
+      "Сад для всех",
+      "Ужин в саду",
+      "Город просыпается",
+      "Окно, где горел свет"
+    ],
+    "types": [
+      "Плакат · текст и композиция",
+      "Типографический пейзаж",
+      "Пейзаж · ручные штрихи",
+      "Карта идей",
+      "Таблица от руки",
+      "Диаграмма · условные данные",
+      "История · четыре семейства шрифтов"
+    ],
+    "full": "Открыть изображение",
+    "dtag": "03 / Скачать",
+    "dh": "Продолжите<br>на своём листе.",
+    "dtitle": "Zero для Windows",
+    "release": "Открыть GitHub Releases ↗",
+    "footer": "Пространство для своих мыслей.",
+    "repo": "Репозиторий",
+    "notices": "Примечания к шрифтам",
+    "fonts": {
+      "nav": "Шрифты",
+      "tag": "Три голоса Zero",
+      "heading": "Текст со своим характером",
+      "intro": "Flow, Still и Mono уже живут в Zero.",
+      "cards": [
+        [
+          "Zero Flow",
+          "Для заметок и свободного письма",
+          "Гуманистический шрифт с засечками и разной шириной знаков. Подходит для заметок, небольших историй и выразительных текстовых композиций.",
+          "Мысль начинается с линии.\nСлова находят свой ритм.",
+          "Тихий вечер, тёплый свет и чистая страница."
+        ],
+        [
+          "Zero Still",
+          "Для спокойных текстовых страниц",
+          "Пропорциональное начертание для абзацев, подписей и повседневных записей. Выберите его, когда тексту нужен ровный, сдержанный характер.",
+          "Остановиться на минуту.\nЗаметить самое важное.",
+          "Тихий вечер, тёплый свет и чистая страница."
+        ],
+        [
+          "Zero Mono",
+          "Для списков и выравнивания",
+          "Буквы и цифры занимают одинаковую ширину. Удобен для коротких списков, числовых записей и фрагментов кода, где важно выравнивание.",
+          "01  мысль     12:30\n02  набросок  14:05\n03  история   18:40",
+          "Тихий вечер, тёплый свет и чистая страница."
+        ]
+      ]
+    }
+  },
+  "en": {
+    "title": "Zero — a space for text and drawing",
+    "desc": "Free-form text, pen strokes and pages. Explore Zero through seven editable compositions, from a poster to a short story.",
+    "nav": [
+      "Features",
+      "Examples",
+      "Download"
+    ],
+    "menu": "Menu",
+    "skip": "Skip to content",
+    "tag": "Text · Pen · Space",
+    "headline": "Give your thoughts<br>room to take shape.",
+    "intro": "Write where a thought begins. Draw between the lines. Bring pages together at your own pace — on a quiet, open sheet.",
+    "cta": "Get Zero",
+    "explore": "Explore the examples ↗",
+    "platform": "Windows x64 · portable",
+    "hero": "“The road to the hills” — an actual composition made in Zero.",
+    "ftag": "01 / Features",
+    "fh": "A page with<br>more possibilities.",
+    "fp": "Text and drawing belong together. From a first stroke to a collection of pages, make room for your own way of thinking.",
+    "features": [
+      [
+        "Free-form text",
+        "Place text anywhere on the page and rotate fragments to find the right composition."
+      ],
+      [
+        "Pen",
+        "Add hand-drawn strokes: sketches, lines and notes alongside your words."
+      ],
+      [
+        "Pages",
+        "Give each thought its own space. Add pages and move between them."
+      ],
+      [
+        "Desk: stacks and links",
+        "See your pages together, arrange them in stacks and connect ideas on the desk."
+      ],
+      [
+        "Markers",
+        "Emphasise what matters with soft strokes of colour that keep the feel of paper."
+      ],
+      [
+        "Templates",
+        "Begin with a ready-made structure. Templates are available in Russian and English."
+      ]
+    ],
+    "gtag": "02 / Gallery",
+    "gh": "Seven ways<br>to begin with a page.",
+    "names": [
+      "The slow hour",
+      "Letters at low tide",
+      "The road to the hills",
+      "A garden for everyone",
+      "Dinner in the garden",
+      "The city wakes",
+      "The window that stayed lit"
+    ],
+    "types": [
+      "Poster · text and composition",
+      "Typographic landscape",
+      "Landscape · pen strokes",
+      "Mind map",
+      "Hand-drawn table",
+      "Diagram · illustrative data",
+      "Short story · four font families"
+    ],
+    "full": "Open full-size image",
+    "dtag": "03 / Download",
+    "dh": "Continue on<br>your own page.",
+    "dtitle": "Zero for Windows",
+    "release": "Open GitHub Releases ↗",
+    "footer": "A space for your own thoughts.",
+    "repo": "Repository",
+    "notices": "Font notices",
+    "fonts": {
+      "nav": "Fonts",
+      "tag": "Three voices of Zero",
+      "heading": "Text with a character of its own",
+      "intro": "Flow, Still and Mono are already part of Zero.",
+      "cards": [
+        [
+          "Zero Flow",
+          "For notes and free writing",
+          "A humanist serif with proportional letter widths. A choice for notes, short stories and expressive text compositions.",
+          "A thought begins with a line.\nWords find their rhythm.",
+          "A quiet evening, warm light and a blank page."
+        ],
+        [
+          "Zero Still",
+          "For quiet text pages",
+          "A proportional face for paragraphs, captions and everyday notes. Choose it when your text calls for a steady, understated character.",
+          "Pause for a moment.\nNotice what matters.",
+          "A quiet evening, warm light and a blank page."
+        ],
+        [
+          "Zero Mono",
+          "For lists and alignment",
+          "Letters and digits share the same width. Useful for short lists, numerical notes and code fragments where alignment matters.",
+          "01  thought  12:30\n02  sketch   14:05\n03  story    18:40",
+          "A quiet evening, warm light and a blank page."
+        ]
+      ]
+    }
+  }
+}

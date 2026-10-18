@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Flow-Regular.ttf",
+    "fsType": 0,
+    "names": {
+      "1": "Flow",
+      "2": "Regular",
+      "3": "Flow-Regular-0.300",
+      "4": "Flow Regular",
+      "6": "Flow-Regular",
+      "16": "Flow",
+      "17": "Regular",
+      "18": "Flow Regular",
+      "21": "Flow",
+      "22": "Regular",
+      "0": "Zero Still original outlines, 2026. Prepared for the project owner.",
+      "5": "Version 0.300",
+      "10": "Original humanist serif. Basic Latin and complete Russian alphabets. Seven Zero Still 0.2 outline masters preserved. Development release."
+    },
+    "source_sha256": "39552d8df2a2feb7065ff53861c2f07db0cc98b9836a5235aac03bb16e0405ff",
+    "webfont": "Flow-Regular.woff2",
+    "webfont_sha256": "91fd93376ae13d97235a7d0889f6ab27609fa1586908deebac4b3fe17c5bfdd5"
+  },
+  {
+    "file": "Mono-Regular.ttf",
+    "fsType": 0,
+    "names": {
+      "1": "Mono",
+      "2": "Regular",
+      "3": "Mono-Regular-0.100",
+      "4": "Mono Regular",
+      "6": "Mono-Regular",
+      "16": "Mono",
+      "17": "Regular",
+      "18": "Mono Regular",
+      "21": "Mono",
+      "22": "Regular",
+      "0": "Copyright 2026 Zero Still project contributors.",
+      "5": "Version 0.100; experimental",
+      "13": "See accompanying LICENSE.txt. Permission to use, modify and redistribute."
+    },
+    "source_sha256": "0d115e647cac95ef90e2ff96e163ec3986e6dc9d9d4a0441de357519ef3a5491",
+    "webfont": "Mono-Regular.woff2",
+    "webfont_sha256": "1ac629d0d24575ef126b527bb0c3275a502ae7076626c3d4e6ccb6058c40b87a"
+  },
+  {
+    "file": "Still-Regular.ttf",
+    "fsType": 0,
+    "names": {
+      "1": "Still",
+      "2": "Regular",
+      "3": "Still-Regular-1.201",
+      "4": "Still Regular",
+      "6": "Still-Regular",
+      "16": "Still",
+      "17": "Regular",
+      "18": "Still Regular",
+      "21": "Still",
+      "22": "Regular",
+      "0": "Copyright 2026 Zero Still project contributors.",
+      "5": "Version 1.201; experimental lightening",
+      "13": "See accompanying LICENSE.txt. Permission to use, modify and redistribute."
+    },
+    "source_sha256": "aef6569bfc0d92982854ebd62866293d1e264e1dc5ea7418afa71984d8d09f1e",
+    "webfont": "Still-Regular.woff2",
+    "webfont_sha256": "cf2c0323c39f682acdf19a86af52cd603b86e1416b7cec347836bd873cdda376"
+  }
+]

@@ -1,0 +1,3 @@
+* text=auto eol=lf
+site/assets/examples/** -text
+site/assets/fonts/** -text
