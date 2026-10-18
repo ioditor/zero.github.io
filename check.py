@@ -54,3 +54,10 @@ for lang in ['ru','en']:
  assert 'id="fonts"' in t and 'href="#fonts"' in t
  assert ('Мысль начинается' if lang=='ru' else 'A thought begins') in t
 print('PASS: 3 local WOFF2 assets, CSS paths, hashes, RU/EN font specimens; no TTF.')
+
+for lang in ['ru','en']:
+ t=(dist/lang/'index.html').read_text(encoding='utf-8')
+ assert 'id="paper"' in t and 'href="#paper"' in t
+ assert f'../assets/paper/Zero-Brochure-{lang.upper()}-folds.pdf' in t
+ assert (dist/f'assets/paper/Zero-Brochure-{lang.upper()}-folds.pdf').read_bytes().startswith(b'%PDF-')
+print('PASS: RU/EN Paper section and localized PDFs.')

@@ -59,3 +59,7 @@ Push и pull request запускают build/check/upload artifact, но deploy
 Workflow содержит checkout, Python build/check, upload-pages-artifact; deploy зависит от build и получает pages:write/id-token:write. Использует configure-pages и deploy-pages, environment github-pages и page_url.
 
 Справочник: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages . Локальная проверка не доказывает успешный запуск GitHub Actions, доступность Pages или правильность настроек удалённого репозитория.
+
+## Бумажный Zero / Zero on Paper
+
+Раздел #paper: заголовок и ссылка на локализованный PDF с метками сгиба. Шаблон — paper_section.py, материалы — site/assets/paper/. Дополнительные PDF, PNG и .zero из архива сохранены как материалы, но не выведены в интерфейсе.

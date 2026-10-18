@@ -1,5 +1,6 @@
 from pathlib import Path
 import json, shutil, html
+from paper_section import paper_section
 BASE='https://ioditor.github.io/zero.github.io/'
 root=Path(__file__).resolve().parent
 data=json.loads((root/'content.json').read_text(encoding='utf-8'))
@@ -18,6 +19,7 @@ for lang,d in data.items():
  def image(i): return assets+'examples/'+stems[i]+'-'+lang.upper()+'.png'
  nav=''.join(f'<a href="#{id}">{text}</a>' for id,text in zip(['features','examples','download'],d['nav']))
  nav=nav.replace('<a href="#download">',f'<a href="#fonts">{d["fonts"]["nav"]}</a><a href="#download">')
+ nav=nav.replace('<a href="#download">','<a href="#paper">'+('Бумажный Zero' if lang=='ru' else 'Zero on Paper')+'</a><a href="#download">')
  fonts=''.join(f'<article class="font-card"><div class="font-label"><h3>{html.escape(c[0])}</h3><p>{html.escape(c[1])}</p></div><p class="font-sample font-{key}">{html.escape(c[3])}</p><p class="font-alphabet font-{key}">{html.escape(c[4])}<br>0123456789</p><p class="font-description">{html.escape(c[2])}</p></article>' for key,c in zip(['flow','still','mono'],d['fonts']['cards']))
  feats=''.join(f'<article class="feature"><span class="number">0{i+1}</span><h3>{title}</h3><p>{text}</p></article>' for i,(title,text) in enumerate(d['features']))
  gallery=''.join(f'<figure class="art"><a href="{image(i)}" aria-label="{d["full"]}: {d["names"][i]}"><img src="{image(i)}" alt="{d["names"][i]} — {d["types"][i]}" width="1240" height="1754" loading="lazy"></a><figcaption><span class="number">0{i+1} / {d["types"][i]}</span><h3>{d["names"][i]}</h3></figcaption></figure>' for i,stem in enumerate(stems))
@@ -28,7 +30,7 @@ for lang,d in data.items():
 <section class="section" id="features"><div class="heading"><div><p class="eyebrow">{d['ftag']}</p><h2>{d['fh']}</h2></div><p>{d['fp']}</p></div><div class="features">{feats}</div></section>
 <section class="section" id="examples"><div class="heading"><div><p class="eyebrow">{d['gtag']}</p><h2>{d['gh']}</h2></div></div><div class="gallery">{gallery}</div></section>
 <section class="section" id="fonts"><div class="heading"><div><p class="eyebrow">{d['fonts']['tag']}</p><h2>{d['fonts']['heading']}</h2></div><p>{d['fonts']['intro']}</p></div><div class="font-grid">{fonts}</div></section>
-<section class="section" id="download"><div class="heading"><div><p class="eyebrow">{d['dtag']}</p><h2>{d['dh']}</h2></div></div><div class="download"><div><h3>{d['dtitle']}</h3><a class="button" href="https://github.com/ioditor/zero.github.io/releases">{d['release']}</a></div></div></section></main>
+{paper_section(lang)}<section class="section" id="download"><div class="heading"><div><p class="eyebrow">{d['dtag']}</p><h2>{d['dh']}</h2></div></div><div class="download"><div><h3>{d['dtitle']}</h3><a class="button" href="https://github.com/ioditor/zero.github.io/releases">{d['release']}</a></div></div></section></main>
 <footer class="wrap"><a class="brand" href="./">Zero</a><span>{d['footer']}</span><a href="https://github.com/ioditor/zero.github.io">{d['repo']}</a></footer></body></html>'''
  (dest/lang).mkdir();(dest/lang/'index.html').write_text(output,encoding='utf-8')
 (dest/'index.html').write_text('''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Zero — Русский / English</title><meta name="description" content="Zero — a space for text and drawing. Выберите язык / Choose your language."><link rel="canonical" href="'''+BASE+'''"><link rel="alternate" hreflang="ru" href="'''+BASE+'''ru/"><link rel="alternate" hreflang="en" href="'''+BASE+'''en/"><link rel="alternate" hreflang="x-default" href="'''+BASE+'''"><link rel="stylesheet" href="assets/site.css"><link rel="icon" href="assets/favicon.svg"><script defer src="assets/entry.js"></script></head><body><main class="landing"><h1>Zero</h1><p>Выберите язык / Choose your language</p><a href="ru/" lang="ru">Русский →</a><a href="en/" lang="en">English →</a></main></body></html>''',encoding='utf-8')
